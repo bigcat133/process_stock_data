@@ -1,0 +1,339 @@
+nohup: 忽略输入
+2017-11-13 00:13:57.745263: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+/home/bigcat133/env/tensorflow/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+bank.conf
+##########################
+## Start rnn train
+##########################
+Step 0, Minibatch Loss= 3.4367, Training Accuracy= 0.125
+Step 1, Minibatch Loss= 3.1528, Training Accuracy= 0.125
+Step 2, Minibatch Loss= 2.9250, Training Accuracy= 0.055
+Step 3, Minibatch Loss= 2.7475, Training Accuracy= 0.055
+Step 4, Minibatch Loss= 2.6158, Training Accuracy= 0.055
+Step 5, Minibatch Loss= 2.5250, Training Accuracy= 0.055
+Step 6, Minibatch Loss= 2.4702, Training Accuracy= 0.055
+Step 7, Minibatch Loss= 2.4456, Training Accuracy= 0.055
+Step 8, Minibatch Loss= 2.4445, Training Accuracy= 0.094
+Step 9, Minibatch Loss= 2.4606, Training Accuracy= 0.094
+Step 10, Minibatch Loss= 2.4879, Training Accuracy= 0.094
+Step 11, Minibatch Loss= 2.5216, Training Accuracy= 0.094
+Step 12, Minibatch Loss= 2.5581, Training Accuracy= 0.094
+Step 13, Minibatch Loss= 2.5947, Training Accuracy= 0.094
+Step 14, Minibatch Loss= 2.6297, Training Accuracy= 0.188
+Step 15, Minibatch Loss= 2.6620, Training Accuracy= 0.188
+Step 16, Minibatch Loss= 2.6913, Training Accuracy= 0.188
+Step 17, Minibatch Loss= 2.7173, Training Accuracy= 0.188
+Step 18, Minibatch Loss= 2.7402, Training Accuracy= 0.188
+Step 19, Minibatch Loss= 2.7600, Training Accuracy= 0.188
+return test data by yield
+all test number: 177
+test step 1
+
+test step 2
+
+rnn Testing Accuracy 0.230947069824
+2017-11-13 00:15:33.179141: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA//home/bigcat133/env/tensorflow/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+bank.conf
+##########################
+## Start rnn train
+##########################
+baoxian.conf
+##########################
+## Start rnn train
+##########################
+Step 0, Minibatch Loss= 2.8806, Training Accuracy= 0.688
+Step 1, Minibatch Loss= 2.7759, Training Accuracy= 0.688
+Step 2, Minibatch Loss= 2.6722, Training Accuracy= 0.688
+Step 3, Minibatch Loss= 2.5697, Training Accuracy= 0.688
+Step 4, Minibatch Loss= 2.4687, Training Accuracy= 0.688
+Step 5, Minibatch Loss= 2.3697, Training Accuracy= 0.688
+Step 6, Minibatch Loss= 2.2731, Training Accuracy= 0.688
+Step 7, Minibatch Loss= 2.1795, Training Accuracy= 0.688
+Step 8, Minibatch Loss= 2.0897, Training Accuracy= 0.688
+Step 9, Minibatch Loss= 2.0043, Training Accuracy= 0.688
+Step 10, Minibatch Loss= 1.9243, Training Accuracy= 0.688
+Step 11, Minibatch Loss= 1.8505, Training Accuracy= 0.688
+Step 12, Minibatch Loss= 1.7838, Training Accuracy= 0.688
+Step 13, Minibatch Loss= 1.7249, Training Accuracy= 0.688
+Step 14, Minibatch Loss= 1.6744, Training Accuracy= 0.688
+Step 15, Minibatch Loss= 1.6324, Training Accuracy= 0.688
+Step 16, Minibatch Loss= 1.5989, Training Accuracy= 0.688
+Step 17, Minibatch Loss= 1.5733, Training Accuracy= 0.688
+Step 18, Minibatch Loss= 1.5548, Training Accuracy= 0.656
+Step 19, Minibatch Loss= 1.5425, Training Accuracy= 0.641
+return test data by yield
+all test number: 47
+test step 1
+
+rnn Testing Accuracy 0.340425521135
+2017-11-13 00:16:56.529564: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA//home/bigcat133/env/tensorflow/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+bank.conf
+##########################
+## Start rnn train
+##########################
+baoxian.conf
+##########################
+## Start rnn train
+##########################
+boli_zhizhao.conf
+##########################
+## Start rnn train
+##########################
+Step 0, Minibatch Loss= 7.8526, Training Accuracy= 0.023
+Step 1, Minibatch Loss= 7.6321, Training Accuracy= 0.023
+Step 2, Minibatch Loss= 7.4157, Training Accuracy= 0.023
+Step 3, Minibatch Loss= 7.2031, Training Accuracy= 0.023
+Step 4, Minibatch Loss= 6.9938, Training Accuracy= 0.023
+Step 5, Minibatch Loss= 6.7875, Training Accuracy= 0.023
+Step 6, Minibatch Loss= 6.5838, Training Accuracy= 0.023
+Step 7, Minibatch Loss= 6.3826, Training Accuracy= 0.023
+Step 8, Minibatch Loss= 6.1837, Training Accuracy= 0.023
+Step 9, Minibatch Loss= 5.9870, Training Accuracy= 0.023
+Step 10, Minibatch Loss= 5.7924, Training Accuracy= 0.023
+Step 11, Minibatch Loss= 5.6000, Training Accuracy= 0.023
+Step 12, Minibatch Loss= 5.4098, Training Accuracy= 0.016
+Step 13, Minibatch Loss= 5.2218, Training Accuracy= 0.016
+Step 14, Minibatch Loss= 5.0361, Training Accuracy= 0.016
+Step 15, Minibatch Loss= 4.8528, Training Accuracy= 0.016
+Step 16, Minibatch Loss= 4.6722, Training Accuracy= 0.016
+Step 17, Minibatch Loss= 4.4942, Training Accuracy= 0.016
+Step 18, Minibatch Loss= 4.3193, Training Accuracy= 0.016
+Step 19, Minibatch Loss= 4.1475, Training Accuracy= 0.016
+return test data by yield
+all test number: 53
+test step 1
+
+rnn Testing Accuracy 0.0566037744284
+2017-11-13 00:18:30.238786: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+/home/bigcat133/env/tensorflow/lib/python3/home/bigcat133/env/tensorflow/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+hangtianzhuangbei.conf
+##########################
+## Start rnn train
+##########################
+jichang.conf
+##########################
+## Start rnn train
+##########################
+linye.conf
+##########################
+## Start rnn train
+##########################
+lvyou_zonghe.conf
+##########################
+## Start rnn train
+##########################
+Step 0, Minibatch Loss= 6.9017, Training Accuracy= 0.016
+Step 1, Minibatch Loss= 6.5009, Training Accuracy= 0.016
+Step 2, Minibatch Loss= 6.1205, Training Accuracy= 0.016
+Step 3, Minibatch Loss= 5.7588, Training Accuracy= 0.016
+Step 4, Minibatch Loss= 5.4146, Training Accuracy= 0.016
+Step 5, Minibatch Loss= 5.0867, Training Accuracy= 0.016
+Step 6, Minibatch Loss= 4.7748, Training Accuracy= 0.016
+Step 7, Minibatch Loss= 4.4787, Training Accuracy= 0.016
+Step 8, Minibatch Loss= 4.1984, Training Accuracy= 0.016
+Step 9, Minibatch Loss= 3.9343, Training Accuracy= 0.062
+Step 10, Minibatch Loss= 3.6868, Training Accuracy= 0.094
+Step 11, Minibatch Loss= 3.4562, Training Accuracy= 0.109
+Step 12, Minibatch Loss= 3.2428, Training Accuracy= 0.109
+Step 13, Minibatch Loss= 3.0469, Training Accuracy= 0.109
+Step 14, Minibatch Loss= 2.8684, Training Accuracy= 0.109
+Step 15, Minibatch Loss= 2.7069, Training Accuracy= 0.109
+Step 16, Minibatch Loss= 2.5620, Training Accuracy= 0.109
+Step 17, Minibatch Loss= 2.4329, Training Accuracy= 0.109
+Step 18, Minibatch Loss= 2.3185, Training Accuracy= 0.109
+Step 19, Minibatch Loss= 2.2176, Training Accuracy= 0.109
+return test data by yield
+all test number: 79
+test step 1
+
+rnn Testing Accuracy 0.417721509933
+2017-11-13 00:19:33.158673: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was /home/bigcat133/env/tensorflow/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+bank.conf
+##########################
+## Start rnn train
+##########################
+baoxian.conf
+##########################
+## Start rnn train
+##########################
+boli_zhizhao.conf
+##########################
+## Start rnn train
+##########################
+canyin.conf
+##########################
+## Start rnn train
+##########################
+chuanbozhizhao.conf
+##########################
+## Start rnn train
+##########################
+Step 0, Minibatch Loss= 3.7461, Training Accuracy= 0.328
+Step 1, Minibatch Loss= 3.6616, Training Accuracy= 0.328
+Step 2, Minibatch Loss= 3.5764, Training Accuracy= 0.328
+Step 3, Minibatch Loss= 3.4907, Training Accuracy= 0.328
+Step 4, Minibatch Loss= 3.4047, Training Accuracy= 0.328
+Step 5, Minibatch Loss= 3.3187, Training Accuracy= 0.328
+Step 6, Minibatch Loss= 3.2330, Training Accuracy= 0.328
+Step 7, Minibatch Loss= 3.1479, Training Accuracy= 0.328
+Step 8, Minibatch Loss= 3.0638, Training Accuracy= 0.328
+Step 9, Minibatch Loss= 2.9812, Training Accuracy= 0.328
+Step 10, Minibatch Loss= 2.9006, Training Accuracy= 0.328
+Step 11, Minibatch Loss= 2.8227, Training Accuracy= 0.328
+Step 12, Minibatch Loss= 2.7484, Training Accuracy= 0.328
+Step 13, Minibatch Loss= 2.6785, Training Accuracy= 0.328
+Step 14, Minibatch Loss= 2.6140, Training Accuracy= 0.328
+Step 15, Minibatch Loss= 2.5562, Training Accuracy= 0.328
+Step 16, Minibatch Loss= 2.5060, Training Accuracy= 0.328
+Step 17, Minibatch Loss= 2.4646, Training Accuracy= 0.328
+Step 18, Minibatch Loss= 2.4329, Training Accuracy= 0.328
+Step 19, Minibatch Loss= 2.4115, Training Accuracy= 0.336
+return test data by yield
+all test number: 44
+test step 1
+
+rnn Testing Accuracy 0.181818187237
+2017-11-13 00:20:44.089033: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+/home/bigcat133/env/tensorflow/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+bank.conf
+##########################
+## Start rnn train
+##########################
+baoxian.conf
+##########################
+## Start rnn train
+##########################
+boli_zhizhao.conf
+##########################
+## Start rnn train
+##########################
+canyin.conf
+##########################
+## Start rnn train
+##########################
+chuanbozhizhao.conf
+##########################
+## Start rnn train
+##########################
+dianqizidonghua.conf
+##########################
+## Start rnn train
+##########################
+Step 0, Minibatch Loss= 3.0790, Training Accuracy= 0.750
+Step 1, Minibatch Loss= 2.8481, Training Accuracy= 0.750
+Step 2, Minibatch Loss= 2.6833, Training Accuracy= 0.750
+Step 3, Minibatch Loss= 2.5443, Training Accuracy= 0.750
+Step 4, Minibatch Loss= 2.4167, Training Accuracy= 0.750
+Step 5, Minibatch Loss= 2.2944, Training Accuracy= 0.750
+Step 6, Minibatch Loss= 2.1748, Training Accuracy= 0.750
+Step 7, Minibatch Loss= 2.0569, Training Accuracy= 0.750
+Step 8, Minibatch Loss= 1.9402, Training Accuracy= 0.750
+Step 9, Minibatch Loss= 1.8246, Training Accuracy= 0.750
+Step 10, Minibatch Loss= 1.7103, Training Accuracy= 0.750
+Step 11, Minibatch Loss= 1.5977, Training Accuracy= 0.750
+Step 12, Minibatch Loss= 1.4874, Training Accuracy= 0.750
+Step 13, Minibatch Loss= 1.3804, Training Accuracy= 0.750
+Step 14, Minibatch Loss= 1.2780, Training Accuracy= 0.750
+Step 15, Minibatch Loss= 1.1819, Training Accuracy= 0.750
+Step 16, Minibatch Loss= 1.0943, Training Accuracy= 0.750
+Step 17, Minibatch Loss= 1.0171, Training Accuracy= 0.750
+Step 18, Minibatch Loss= 0.9520, Training Accuracy= 0.750
+Step 19, Minibatch Loss= 0.8999, Training Accuracy= 0.750
+return test data by yield
+all test number: 185
+test step 1
+
+test step 2
+
+rnn Testing Accuracy 0.476082786918
+2017-11-13 00:24:51.962942: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+/home/bigcat133/env/tensorflow/lib/python3.6/importlib/_bootstrap.py:219: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+bank.conf
+##########################
+## Start rnn train
+##########################
+baoxian.conf
+##########################
+## Start rnn train
+##########################
+boli_zhizhao.conf
+##########################
+## Start rnn train
+##########################
+canyin.conf
+##########################
+## Start rnn train
+##########################
+chuanbozhizhao.conf
+##########################
+## Start rnn train
+##########################
+dianqizidonghua.conf
+##########################
+## Start rnn train
+##########################
+dimianbinzhuang.conf
+##########################
+## Start rnn train
+##########################
+Step 0, Minibatch Loss= 2.4009, Training Accuracy= 0.562
+Step 1, Minibatch Loss= 2.3544, Training Accuracy= 0.562
+Step 2, Minibatch Loss= 2.3100, Training Accuracy= 0.562
+Step 3, Minibatch Loss= 2.2677, Training Accuracy= 0.562
+Step 4, Minibatch Loss= 2.2275, Training Accuracy= 0.586
+Step 5, Minibatch Loss= 2.1892, Training Accuracy= 0.586
+Step 6, Minibatch Loss= 2.1529, Training Accuracy= 0.586
+Step 7, Minibatch Loss= 2.1184, Training Accuracy= 0.586
+Step 8, Minibatch Loss= 2.0858, Training Accuracy= 0.586
+Step 9, Minibatch Loss= 2.0550, Training Accuracy= 0.586
+Step 10, Minibatch Loss= 2.0259, Training Accuracy= 0.586
+Step 11, Minibatch Loss= 1.9986, Training Accuracy= 0.586
+Step 12, Minibatch Loss= 1.9729, Training Accuracy= 0.586
+Step 13, Minibatch Loss= 1.9488, Training Accuracy= 0.586
+Step 14, Minibatch Loss= 1.9262, Training Accuracy= 0.523
+Step 15, Minibatch Loss= 1.9050, Training Accuracy= 0.523
+Step 16, Minibatch Loss= 1.8853, Training Accuracy= 0.523
+Step 17, Minibatch Loss= 1.8668, Training Accuracy= 0.500
+Step 18, Minibatch Loss= 1.8495, Training Accuracy= 0.500
+Step 19, Minibatch Loss= 1.8334, Training Accuracy= 0.500
+return test data by yield
+all test number: 66
+test step 1
+
+rnn Testing Accuracy 0.363636374474
+bank.conf
+##########################
+## Start rnn train
+##########################
+baoxian.conf
+##########################
+## Start rnn train
+##########################
+boli_zhizhao.conf
+##########################
+## Start rnn train
+##########################
+canyin.conf
+##########################
+## Start rnn train
+##########################
+chuanbozhizhao.conf
+##########################
+## Start rnn train
+##########################
+dianqizidonghua.conf
+##########################
+## Start rnn train
+##########################
+dimianbinzhuang.conf
+##########################
+## Start rnn train
+##########################
+############
