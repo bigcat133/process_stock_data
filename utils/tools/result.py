@@ -23,6 +23,8 @@ def checkTrainInfo(train_info, accuracy):
                 _info = yaml.safe_load(_info_fd.read())
                 if _info['accuracy'] > accuracy:
                     info_list.append(_dir)
+    else:
+        info_list.append(train_info)
     return info_list
 
 
@@ -83,5 +85,9 @@ def run(argv):
                 accur = all_quality[stock_id][0]
                 _info = json.dumps(all_quality[stock_id][1])
                 save_fd.write("%s: %s, %s\n" % (stock_id, accur, _info))
-
-    print(len(all_quality))
+        print(len(all_quality))
+    else:
+        for stock_id in all_quality:
+            accur = all_quality[stock_id][0]
+            _info = json.dumps(all_quality[stock_id][1])
+            print("%s: %s, %s\n" % (stock_id, accur, _info))
